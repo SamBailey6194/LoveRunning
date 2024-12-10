@@ -54,7 +54,7 @@ header a {
 }
 
 .active {
-    border-bottom: 1px solid #3a343a;
+    border-bottom: 1px solid #3a3a3a;
 }
 
 /* Navbar styles with dropdown toggle */
@@ -110,6 +110,43 @@ main {
 
 #cover-text > h2, #cover-text > h3 {
     color: #ffffff;
+}
+
+#reasons {
+    margin: 20px auto 20px auto;
+}
+
+#reasons > h2 {
+    font-size: 280%;
+    margin-bottom: 20px;
+}
+
+#benefits-physical {
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+
+#benefits-physical > hr {
+    border-top: 1px solid #3a3a3a;
+    margin: 5px 0;
+}
+
+#benefits-physical > p {
+    padding: 0 20px;
+}
+
+#benefits-mental {
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+
+#benefits-mental > hr {
+    border-top: 1px solid #3a3a3a;
+    margin: 5px 0;
+}
+
+#benefits-mental > p {
+    padding: 0 20px;
 }
 
 /* Footer */
